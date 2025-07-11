@@ -2,6 +2,7 @@
   background-color: #e2e2e2;
   padding: 30px;
   margin-top: 60px;
+  margin-bottom: 10px;
   width: 100%;
   position: fixed;
   z-index: 999;
@@ -15,8 +16,8 @@
 }
 
 main {  /*1026 x 5223*/
-  position: relative;
-  top: 170px;
+  padding-top: 150px;
+  padding-bottom: 90px;
 }
 
 section {
@@ -69,7 +70,7 @@ footer {
   position: fixed;
   left: 0;
   bottom: 0;
-}
+  }
 
 .footer-content {
   width: 100%;
@@ -96,5 +97,4 @@ footer {
   background-color: grey;
   color: black;
   cursor: not-allowed;
-  
-}
+  }
