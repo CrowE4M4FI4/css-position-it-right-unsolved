@@ -52,18 +52,18 @@ This assignment should prove that a student is able to:
 
 `For the Robot Face exercise:`
 
-- [ ] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
-- [ ] Edit the following files to solve that part of the assignment:
-  - [ ] html: `/pages/fancy-robot.html`
-  - [ ] css: `/css/fancy-robot.css`
-- [ ] The container for the robot face (face shape) should be positioned/aligned following the rules:
-  - [ ] It should be horizontally centered to the viewport width and height.
-  - [ ] The container should not overlap the header section.
+- [x ] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
+- [x ] Edit the following files to solve that part of the assignment:
+  - [x ] html: `/pages/fancy-robot.html`
+  - [x ] css: `/css/fancy-robot.css`
+- [x ] The container for the robot face (face shape) should be positioned/aligned following the rules:
+  - [x ] It should be horizontally centered to the viewport width and height.
+  - [x ] The container should not overlap the header section.
 - [ ] Style the shape of the robot face to follow the requirements:
-  - [ ] Should be a simple shape (square, circle, oval).
-  - [ ] Should have a border of any style, color and width.
+  - [x ] Should be a simple shape (square, circle, oval).
+  - [x ] Should have a border of any style, color and width.
   - [ ] The face parts should NOT touch the border in their static positions.
-  - [ ] The corners of the face shape should NOT be a straight (right) angle.
+  - [x ] The corners of the face shape should NOT be a straight (right) angle.
 - [ ] Create unique random shapes for the following internal elements of the face:
   - [ ] Left eye
   - [ ] Right eye
